@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'akryum:vue-coffee',
+  name: 'mze3evue-coffee',
   version: '0.4.2',
   summary: 'Add coffee support for vue components',
-  git: 'https://github.com/Akryum/meteor-vue-component',
+  git: 'github.com/AppStrom/meteor-vue',
   documentation: 'README.md',
 })
 

@@ -2,7 +2,7 @@ Package.describe({
   name: 'akryum:vue-component',
   version: '0.15.2',
   summary: 'VueJS single-file components that hot-reloads',
-  git: 'https://github.com/Akryum/meteor-vue-component',
+  git: 'github.com/AppStrom/meteor-vue',
   documentation: 'README.md',
 })
 

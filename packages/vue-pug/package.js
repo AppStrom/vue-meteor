@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'akryum:vue-pug',
+  name: 'mze3evue-pug',
   version: '0.1.3',
   summary: 'Add pug support for vue components',
-  git: 'https://github.com/Akryum/meteor-vue-component',
+  git: 'github.com/AppStrom/meteor-vue',
   documentation: 'README.md',
 })
 

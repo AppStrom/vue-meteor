@@ -24,7 +24,7 @@ vue+meteor is a set of packages to help you create awesome apps quickly and effi
 - [vuejs](http://vuejs.org/) is the frontend
 - [meteor](http://meteor.com/) is the platform (client, server, database, network)
 
-You will be able to [use meteor data inside Vue](https://github.com/Akryum/vue-meteor-tracker#vue-integration-for-meteor) or [write `.vue` files in your meteor project](https://github.com/Akryum/meteor-vue-component/tree/master/packages/vue-component).
+You will be able to [use meteor data inside Vue](https://github.com/Akryum/vue-meteor-tracker#vue-integration-for-meteor) or [write `.vue` files in your meteor project](github.com/AppStrom/meteor-vue/tree/master/packages/vue-component).
 
 ### [Complete Example/Demo Project](https://github.com/Akryum/vue-meteor-demo)
 
@@ -33,19 +33,19 @@ You will be able to [use meteor data inside Vue](https://github.com/Akryum/vue-m
 Here is a list of recommended packages for developping a meteor+vue app:
 
 - [:package: `vue-meteor-tracker`](https://github.com/Akryum/vue-meteor-tracker) (meteor tracker integration)
-- [:package: `akryum:vue-component`](https://github.com/Akryum/meteor-vue-component/tree/master/packages/vue-component) (vue component files)
-- [:package: `akryum:vue-router2`](https://github.com/Akryum/meteor-vue-component/tree/master/packages/vue-router2) (`vue-router` 2.x helpers)
+- [:package: `mze3evue-component`](github.com/AppStrom/meteor-vue/tree/master/packages/vue-component) (vue component files)
+- [:package: `mze3evue-router2`](github.com/AppStrom/meteor-vue/tree/master/packages/vue-router2) (`vue-router` 2.x helpers)
 - [:package: `vue-apollo`](https://github.com/Akryum/vue-apollo) (apollo integration)
-- [:package: `vuejs:blaze-integration`](https://github.com/meteor-vue/blaze-integration) (integrate Vue and Blaze)
+- [:package: `vuejs:blaze-integration`](https://github.com/AppStrom/blaze-integration) (integrate Vue and Blaze)
 - [:package: `vue-supply`](https://github.com/Akryum/vue-supply) (use reactive data & automatic subscriptions in components and vuex store)
-- [:package: `akryum:vue-ssr`](https://github.com/Akryum/vue-meteor/tree/master/packages/vue-ssr) (Server-Side Rendering)
+- [:package: `mze3evue-ssr`](https://github.com/Akryum/vue-meteor/tree/master/packages/vue-ssr) (Server-Side Rendering)
 
 ## Resources
 
 ### Examples
 
-- [Guide Example](https://github.com/meteor-vue/guide)
-- [TodoMVC](https://github.com/meteor-vue/todomvc)
+- [Guide Example](https://github.com/AppStrom/guide)
+- [TodoMVC](https://github.com/AppStrom/todomvc)
 - [Complete Example/Demo Project](https://github.com/Akryum/vue-meteor-demo)
 
 <br>
@@ -62,7 +62,7 @@ Declarative subscriptions and meteor reactive data
 
 It allows you to write your components in [this format](https://vuejs.org/v2/guide/single-file-components.html) with hot-reloading support.
 
-[:package: See Usage in arkyum:vue-component package](https://github.com/Akryum/meteor-vue-component/tree/master/packages/vue-component#usage)
+[:package: See Usage in arkyum:vue-component package](github.com/AppStrom/meteor-vue/tree/master/packages/vue-component#usage)
 
 <br>
 
@@ -70,7 +70,7 @@ It allows you to write your components in [this format](https://vuejs.org/v2/gui
 
 Routing for Vue 2.x and Meteor using [vue-router](https://github.com/vuejs/vue-router).
 
-[:package: See Installation & Usage in arkyum:vue-router2 package](https://github.com/Akryum/meteor-vue-component/tree/master/packages/vue-router2#installation)
+[:package: See Installation & Usage in arkyum:vue-router2 package](github.com/AppStrom/meteor-vue/tree/master/packages/vue-router2#installation)
 
 [Example app](https://github.com/Akryum/meteor-vue2-example-routing)
 
@@ -88,7 +88,7 @@ Use apollo in your vue component!
 
 Very easy way to render your frontend on the server automatically when a user first loads the app.
 
-[:package: See Installation & Usage in the akryum:vue-ssr package](https://github.com/meteor-vue/vue-meteor/tree/master/packages/vue-ssr#installation)
+[:package: See Installation & Usage in the mze3evue-ssr package](https://github.com/AppStrom/vue-meteor/tree/master/packages/vue-ssr#installation)
 
 <br>
 
@@ -96,7 +96,7 @@ Very easy way to render your frontend on the server automatically when a user fi
 
 Render Blaze templates in Vue components and the other way around!
 
-[:package: See Installation & Usage in the vuejs:blaze-integration package](https://github.com/meteor-vue/blaze-integration)
+[:package: See Installation & Usage in the vuejs:blaze-integration package](https://github.com/AppStrom/blaze-integration)
 
 
 <br>
@@ -135,7 +135,7 @@ Currently supported and possible future features (in no particular order) are:
  - [x] Apollo Server-side rendering ![vue](https://img.shields.io/badge/vue-2.x-brightgreen.svg)
  - [x] Meteor 1.5 code-splitting ![vue](https://img.shields.io/badge/vue-2.x-brightgreen.svg)
 
-Track the project progress [here](https://github.com/Akryum/meteor-vue-component/milestones).
+Track the project progress [here](github.com/AppStrom/meteor-vue/milestones).
 
 ## Get involved
 

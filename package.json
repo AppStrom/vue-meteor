@@ -7,14 +7,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/meteor-vue/vue-meteor.git"
+    "url": "git+https://github.com/AppStrom/vue-meteor.git"
   },
   "author": "Guillaume Chau <guillaume.b.chau@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/meteor-vue/vue-meteor/issues"
+    "url": "https://github.com/AppStrom/vue-meteor/issues"
   },
-  "homepage": "https://github.com/meteor-vue/vue-meteor#readme",
+  "homepage": "https://github.com/AppStrom/vue-meteor#readme",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-eslint": "^8.2.1",

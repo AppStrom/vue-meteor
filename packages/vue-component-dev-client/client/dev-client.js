@@ -18,9 +18,9 @@ console.log('%cHMR%c You are using Vue %c' + Vue.version, tagStyle, 'color: #177
 
 console.log('%cYou are currently in development mode. If the Hot-Module-Replacement system is enabled (`on` by default), the CSS will be injected to the page after the scripts are loaded. This may result in Flash Of Unstyled Contents. Those will not occur in production.', infoStyle)
 
-console.log('%cMore information about the component compilation: https://github.com/meteor-vue/vue-meteor/tree/master/packages/vue-component', infoStyle)
+console.log('%cMore information about the component compilation: https://github.com/AppStrom/vue-meteor/tree/master/packages/vue-component', infoStyle)
 
-console.log('%cDocumentation and Issues: https://github.com/meteor-vue/vue-meteor', infoStyle)
+console.log('%cDocumentation and Issues: https://github.com/AppStrom/vue-meteor', infoStyle)
 
 if (vueVersion === 1) {
   VueHotReloadApi = VueHot1

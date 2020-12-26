@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'akryum:vue-router2',
+  name: 'mze3evue-router2',
   version: '0.2.3',
   summary: 'Easy vue routing for Meteor - vue-router 2.x',
-  git: 'https://github.com/Akryum/meteor-vue-component',
+  git: 'github.com/AppStrom/meteor-vue',
   documentation: 'README.md',
 })
 

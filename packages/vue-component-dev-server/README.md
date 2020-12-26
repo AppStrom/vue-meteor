@@ -1,1 +1,1 @@
-Used by [akryum:vue-component](https://github.com/Akryum/meteor-vue-component/tree/master/packages/vue-component).
+Used by [mze3evue-component](github.com/AppStrom/meteor-vue/tree/master/packages/vue-component).

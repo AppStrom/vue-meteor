@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'akryum:vue-component-dev-server',
+  name: 'mze3evue-component-dev-server',
   version: '0.1.4',
   summary: 'Dev server for vue hot-reloading',
-  git: 'https://github.com/Akryum/meteor-vue-component',
+  git: 'github.com/AppStrom/meteor-vue',
   documentation: 'README.md',
   debugOnly: true,
 })

@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'akryum:vue-sass',
+  name: 'mze3evue-sass',
   version: '0.1.2',
   summary: 'Add sass and scss support for vue components',
-  git: 'https://github.com/Akryum/meteor-vue-component',
+  git: 'github.com/AppStrom/meteor-vue',
   documentation: 'README.md',
 })
 

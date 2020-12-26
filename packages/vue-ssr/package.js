@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'akryum:vue-ssr',
+  name: 'mze3evue-ssr',
   version: '0.4.0',
   summary: 'Render Vue server-side',
-  git: 'https://github.com/Akryum/meteor-vue-component',
+  git: 'github.com/AppStrom/meteor-vue',
   documentation: 'README.md',
 })
 
@@ -28,6 +28,6 @@ Package.onUse(function (api) {
 })
 
 Npm.depends({
-  'vue-server-renderer': '2.6.10',
+  'vue-server-renderer': '2.6.12',
   'cookie-parser': '1.4.4',
 })
