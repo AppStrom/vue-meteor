@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'mze3evue-sass',
+  name: 'mze3e:vue-sass',
   version: '0.1.2',
   summary: 'Add sass and scss support for vue components',
   git: 'github.com/AppStrom/meteor-vue',

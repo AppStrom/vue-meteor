@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'mze3evue-pug',
+  name: 'mze3e:vue-pug',
   version: '0.1.3',
   summary: 'Add pug support for vue components',
   git: 'github.com/AppStrom/meteor-vue',

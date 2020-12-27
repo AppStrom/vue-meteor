@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'mze3enpm-check',
+  name: 'mze3e:npm-check',
   version: '0.1.2',
   summary: 'Check npm peer-dependencies and auto-installs them.',
   git: 'github.com/AppStrom/meteor-vue/tree/master/packages/npm-check',

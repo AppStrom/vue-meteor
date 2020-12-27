@@ -5,7 +5,7 @@
 ## Installation:
 
 ```
-meteor add mze3evue-ssr
+meteor add mze3e:vue-ssr
 ```
 
 ## Usage
@@ -52,7 +52,7 @@ Meteor.startup(() => {
 In your server code, you need to set the `VueSSR.createApp` method with a function that returns the Vue instance:
 
 ```javascript
-import { VueSSR } from 'meteor/mze3evue-ssr'
+import { VueSSR } from 'meteor/mze3e:vue-ssr'
 import CreateApp from './app'
 
 VueSSR.createApp = function (context) {

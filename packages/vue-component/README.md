@@ -8,7 +8,7 @@ It allows you to write your components in [this format](https://vuejs.org/v2/gui
 ## Installation
 
 ```
-meteor add mze3evue-component
+meteor add mze3e:vue-component
 ```
 
 ## Usage
@@ -147,19 +147,19 @@ Using the power of preprocessors, you can use a different language (like less or
 
 Packages for `<template>` tag:
 
-- [mze3evue-pug](https://github.com/Akryum/vue-meteor/tree/master/packages/vue-pug)
-- [mze3evue-jade](github.com/AppStrom/meteor-vue/tree/master/packages/vue-jade)
+- [mze3e:vue-pug](https://github.com/Akryum/vue-meteor/tree/master/packages/vue-pug)
+- [mze3e:vue-jade](github.com/AppStrom/meteor-vue/tree/master/packages/vue-jade)
 
 Packages for `<script>` tag:
 
- - [mze3evue-coffee](github.com/AppStrom/meteor-vue/tree/master/packages/vue-coffee)
+ - [mze3e:vue-coffee](github.com/AppStrom/meteor-vue/tree/master/packages/vue-coffee)
  - [nathantreid:vue-typescript](https://github.com/nathantreid/meteor-vue-typescript)
 
 Packages for `<style>` tag:
 
- - [mze3evue-less](github.com/AppStrom/meteor-vue/tree/master/packages/vue-less)
- - [mze3evue-sass](github.com/AppStrom/meteor-vue/tree/master/packages/vue-sass)
- - [mze3evue-stylus](github.com/AppStrom/meteor-vue/tree/master/packages/vue-stylus)
+ - [mze3e:vue-less](github.com/AppStrom/meteor-vue/tree/master/packages/vue-less)
+ - [mze3e:vue-sass](github.com/AppStrom/meteor-vue/tree/master/packages/vue-sass)
+ - [mze3e:vue-stylus](github.com/AppStrom/meteor-vue/tree/master/packages/vue-stylus)
  - [nathantreid:vue-css-modules](https://github.com/nathantreid/vue-css-modules) enables interop with nathantreid:css-modules, including support for composing from other files.
 
 Get involved! Add your own package with a PR! :+1:

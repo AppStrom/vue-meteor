@@ -6,7 +6,7 @@ This meteor package adds [less](http://lesscss.org/) support in your single-file
 
 ## Installation
 
-    meteor add mze3evue-less
+    meteor add mze3e:vue-less
 
 
 ## Usage

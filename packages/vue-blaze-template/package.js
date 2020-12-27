@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'mze3evue-blaze-template',
+  name: 'mze3e:vue-blaze-template',
   version: '0.1.1',
   summary: 'Render Blaze templates in vue components',
   git: 'github.com/AppStrom/meteor-vue',

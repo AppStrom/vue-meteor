@@ -33,12 +33,12 @@ You will be able to [use meteor data inside Vue](https://github.com/Akryum/vue-m
 Here is a list of recommended packages for developping a meteor+vue app:
 
 - [:package: `vue-meteor-tracker`](https://github.com/Akryum/vue-meteor-tracker) (meteor tracker integration)
-- [:package: `mze3evue-component`](github.com/AppStrom/meteor-vue/tree/master/packages/vue-component) (vue component files)
-- [:package: `mze3evue-router2`](github.com/AppStrom/meteor-vue/tree/master/packages/vue-router2) (`vue-router` 2.x helpers)
+- [:package: `mze3e:vue-component`](github.com/AppStrom/meteor-vue/tree/master/packages/vue-component) (vue component files)
+- [:package: `mze3e:vue-router2`](github.com/AppStrom/meteor-vue/tree/master/packages/vue-router2) (`vue-router` 2.x helpers)
 - [:package: `vue-apollo`](https://github.com/Akryum/vue-apollo) (apollo integration)
 - [:package: `vuejs:blaze-integration`](https://github.com/AppStrom/blaze-integration) (integrate Vue and Blaze)
 - [:package: `vue-supply`](https://github.com/Akryum/vue-supply) (use reactive data & automatic subscriptions in components and vuex store)
-- [:package: `mze3evue-ssr`](https://github.com/Akryum/vue-meteor/tree/master/packages/vue-ssr) (Server-Side Rendering)
+- [:package: `mze3e:vue-ssr`](https://github.com/Akryum/vue-meteor/tree/master/packages/vue-ssr) (Server-Side Rendering)
 
 ## Resources
 
@@ -88,7 +88,7 @@ Use apollo in your vue component!
 
 Very easy way to render your frontend on the server automatically when a user first loads the app.
 
-[:package: See Installation & Usage in the mze3evue-ssr package](https://github.com/AppStrom/vue-meteor/tree/master/packages/vue-ssr#installation)
+[:package: See Installation & Usage in the mze3e:vue-ssr package](https://github.com/AppStrom/vue-meteor/tree/master/packages/vue-ssr#installation)
 
 <br>
 

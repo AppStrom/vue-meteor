@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'mze3evue-stylus',
+  name: 'mze3e:vue-stylus',
   version: '0.1.3',
   summary: 'Add stylus support for vue components',
   git: 'github.com/AppStrom/meteor-vue',

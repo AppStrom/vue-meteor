@@ -10,7 +10,7 @@ See the [example here](https://github.com/Akryum/meteor-vue2-example-routing).
 ## Installation
 
 
-    meteor add mze3evue-router2
+    meteor add mze3e:vue-router2
 
 ## Usage
 
@@ -24,7 +24,7 @@ First, let's create our router factory:
 /* /client/client.js */
 
 // Import the router factory
-import { RouterFactory, nativeScrollBehavior } from 'meteor/mze3evue-router2'
+import { RouterFactory, nativeScrollBehavior } from 'meteor/mze3e:vue-router2'
 
 // Create router instance
 const routerFactory = new RouterFactory({
@@ -43,7 +43,7 @@ In your client, add some routes with the `RouterFactory.configure()` method (for
 /* /client/routes.js */
 
 // Import the router
-import { RouterFactory } from 'meteor/mze3evue-router2'
+import { RouterFactory } from 'meteor/mze3e:vue-router2'
 
 // Components
 import Home from '/imports/ui/Home.vue'
@@ -172,7 +172,7 @@ To add a 'not found' page, add a `*` route in your client code:
 /* /client/routes.js */
 
 // Import the router
-import { RouterFactory } from 'meteor/mze3evue-router';
+import { RouterFactory } from 'meteor/mze3e:vue-router';
 
 // Not found
 import NotFound from '/imports/ui/NotFound.vue';

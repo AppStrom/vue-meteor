@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'mze3evue-coffee',
+  name: 'mze3e:vue-coffee',
   version: '0.4.2',
   summary: 'Add coffee support for vue components',
   git: 'github.com/AppStrom/meteor-vue',

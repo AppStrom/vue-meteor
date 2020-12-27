@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'mze3evue-less',
+  name: 'mze3e:vue-less',
   version: '0.2.1',
   summary: 'Add less support for vue components',
   git: 'github.com/AppStrom/meteor-vue',

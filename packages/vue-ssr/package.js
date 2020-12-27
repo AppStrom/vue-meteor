@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'mze3evue-ssr',
+  name: 'mze3e:vue-ssr',
   version: '0.4.0',
   summary: 'Render Vue server-side',
   git: 'github.com/AppStrom/meteor-vue',

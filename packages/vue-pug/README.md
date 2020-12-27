@@ -6,7 +6,7 @@ This meteor package adds [pug](http://pugjs.org) support in your single-file `.v
 
 ## Installation
 
-    meteor add mze3evue-pug
+    meteor add mze3e:vue-pug
 
 
 ## Usage

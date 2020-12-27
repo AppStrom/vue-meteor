@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'mze3evue-router2',
+  name: 'mze3e:vue-router2',
   version: '0.2.3',
   summary: 'Easy vue routing for Meteor - vue-router 2.x',
   git: 'github.com/AppStrom/meteor-vue',

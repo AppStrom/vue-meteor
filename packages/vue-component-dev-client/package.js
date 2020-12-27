@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'mze3evue-component-dev-client',
+  name: 'mze3e:vue-component-dev-client',
   version: '0.4.7',
   summary: 'Hot-reloading client for vue components',
   git: 'github.com/AppStrom/meteor-vue',

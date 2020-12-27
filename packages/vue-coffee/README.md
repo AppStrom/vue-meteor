@@ -6,7 +6,7 @@ This meteor package adds [CoffeeScript](http://coffeescript.org/) support in you
 
 ## Installation
 
-    meteor add mze3evue-coffee
+    meteor add mze3e:vue-coffee
 
 
 ## Usage

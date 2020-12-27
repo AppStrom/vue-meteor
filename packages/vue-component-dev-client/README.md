@@ -1,1 +1,1 @@
-Used by [mze3evue-component](github.com/AppStrom/meteor-vue/tree/master/packages/vue-component).
+Used by [mze3e:vue-component](github.com/AppStrom/meteor-vue/tree/master/packages/vue-component).

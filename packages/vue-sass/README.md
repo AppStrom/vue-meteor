@@ -6,7 +6,7 @@ This meteor package adds [sass](http://sass-lang.com) support in your single-fil
 
 ## Installation
 
-    meteor add mze3evue-sass
+    meteor add mze3e:vue-sass
 
 
 ## Usage
